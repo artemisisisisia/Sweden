@@ -22,7 +22,7 @@
                 "innerColor": [249, 247, 3],
                 "favoredReligion": "Christianity",
                 "uniqueName": "Nobel Prize",
-                "uniques": ["Gain [90] Influence with a [Great Person] gift to a City-State", "When declaring friendship, both parties gain a [10]% boost to great person generation","[+1 Food, +1 Production, +1 Gold] from [Tundra] tiles"],
+                "uniques": ["Gain [90] Influence with a [Great Person] gift to a City-State", "When declaring friendship, both parties gain a [10]% boost to great person generation","[+1 Food, +1 Production, +1 Gold] from [Tundra] tiles [in this city]"],
                 "cities": ["Stockholm","Uppsala","Gothenburg","Malmö","Linköping","Kalmar","Skara","Västerås","Jönköping",
             "Visby","Falun","Norrköping","Gävle","Halmstad","Karlskrona","Hudiksvall","Örebro","Umeå","Karlstad",
             "Helsingborg","Härnösand","Vadstena","Lund","Västervik","Enköping","Skövde","Eskilstuna","Luleå","Lidköping",
